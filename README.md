@@ -28,3 +28,7 @@ ___
 Import `template_zabbix_ssl_check.xml` to zabbix server and link with your host.
 
 Tested on Debian GNU/Linux 10 (buster) and Zabbix 5.0.1.
+
+___
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](557VL7EAPERQA)
