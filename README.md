@@ -31,4 +31,4 @@ Tested on Debian GNU/Linux 10 (buster) and Zabbix 5.0.1.
 
 ___
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](557VL7EAPERQA)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=557VL7EAPERQA&source=url)
